@@ -105,3 +105,12 @@ p {
 .links:hover{
     background-color: deepskyblue
 }
+a{
+    text-decoration: none;
+}
+.articles:hover{
+    color: fuchsia;
+}
+html{
+    scroll-behavior: smooth;
+}
